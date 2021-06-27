@@ -9,7 +9,7 @@ Send Push Notification using onesignal reset api and core PHP
 # Send Notification Input Box
 ![notification](https://user-images.githubusercontent.com/16277392/123530494-bf17db80-d71c-11eb-81b5-3fe6f38ba74b.png)
 
-#APP_ID and KEY/ Username and Password settings
+# APP_ID and KEY/ Username and Password settings
 ![settings](https://user-images.githubusercontent.com/16277392/123530495-bfb07200-d71c-11eb-9334-3cbff2dd4641.png)
 
 # LOGIN INFO
