@@ -7,4 +7,4 @@ Send Push Notification using onesignal reset api and core PHP
 username: admin
 password: admin
 
-Video: https://youtu.be/aep44Ow8aY8
+Video: https://www.youtube.com/watch?v=Mmx-PUav1Vw
