@@ -13,15 +13,21 @@ Send Push Notification using onesignal reset api and core PHP
 ![settings](https://user-images.githubusercontent.com/16277392/123530495-bfb07200-d71c-11eb-9334-3cbff2dd4641.png)
 
 # LOGIN INFO
-username: admin
-password: admin
+> username: admin
+
+> password: admin
 
 # Technology Used:
-#HTML 
-#Boostrap
-#SqLite3 
-#Onesignal REST API 
-#Curl 
-#PHP
+> HTML
+
+> Boostrap
+
+> SqLite3 
+
+> Onesignal REST API 
+
+> Curl 
+
+> PHP
 
 Video: https://youtu.be/Q3OqvNx0g_k
