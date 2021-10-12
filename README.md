@@ -16,7 +16,7 @@ Send Push Notification using onesignal reset api and core PHP
 
 > password: admin
 
-After successfully login admin panel, please check API ID and KEY with your own onesignal API ID and KEY
+After successfully login admin panel, please replace API ID and KEY with your own onesignal API ID and KEY
 
 # Technology Used:
 > HTML
