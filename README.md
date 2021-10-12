@@ -31,6 +31,8 @@ After successfully login admin panel, please replace API ID and KEY with your ow
 
 > PHP
 
+> SQL
+
 Video: https://youtu.be/Q3OqvNx0g_k
 
 
