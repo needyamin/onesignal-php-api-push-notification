@@ -1,14 +1,14 @@
 # onesignal-php-api-push-notification
 Send Push Notification using onesignal reset api and core PHP
 
-# Setup for SQL/MYSQL/MariaDB
+# :::: Setup for SQL/MYSQL/MariaDB ::::
 > Download: https://github.com/needyamin/onesignal-php-api-push-notification/tree/main/PHP%2BMYSQL 
 
 > Then create new database and import this file https://github.com/needyamin/onesignal-php-api-push-notification/blob/main/PHP%2BMYSQL/onesignal.sql
 
 > Go to db.php file and replace your hostname, username and database name https://github.com/needyamin/onesignal-php-api-push-notification/blob/main/PHP%2BMYSQL/db.php
 
-# Setup for SQLite
+# :::: Setup for SQLite ::::
 > Just download this and run on your PC: https://github.com/needyamin/onesignal-php-api-push-notification/tree/main/PHP%2BSQLite (SQLite install required)
 
 # LOGIN INFO
